@@ -1,0 +1,4 @@
+edge://settings/system
+
+Startup boost
+Continue running background extensions and apps when Microsoft Edge is close

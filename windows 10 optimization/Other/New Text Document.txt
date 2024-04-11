@@ -1,0 +1,14 @@
+sfc /scannow
+
+
+
+Settings
+System -> Multitasking -> uncheck "When I snap a window, show what I can snap next to it"
+
+
+Group Policy Editor
+Computer Configuration -> Administrative Templates -> Windows Components -> Windows Update -> Configure Automatic Updates = Disabled
+
+
+Task Scheduler
+Disable edge update
