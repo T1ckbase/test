@@ -4,4 +4,4 @@ Windows Registry Editor Version 5.00
 "Start"=dword:4
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DeliveryOptimization\Config]
-"DODownloadMode"=dword:1
+"DODownloadMode"=dword:0
