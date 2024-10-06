@@ -48,9 +48,52 @@
       @keyframes hue {
         to { --hue: 359; }
       }
+
+      .fancy-border {
+        --border-size: 1px;
+        pointer-events: none;
+        position: absolute;
+        inset: calc(0px - var(--border-size));
+        padding: var(--border-size);
+        -webkit-mask: linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);
+        mask: linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);
+        -webkit-mask-composite: xor;
+        mask-composite: exclude;
+        border-radius: inherit;
+        overflow: hidden;
+      }
+
+      .fancy-border::before,
+      .fancy-border::after { 
+        content: '';
+        background: radial-gradient(100% 100% at right, red, transparent 50%);
+        position: absolute;
+        aspect-ratio: 2 / 1;
+        transform: translate(-50%, -50%);
+        aspect-ratio: 1;
+        width: 20em;
+        offset-path: border-box;
+        offset-anchor: 50% 0%;
+      }
+
+      .fancy-border::before {
+        animation: journey 20s infinite linear;
+      }
+
+      .fancy-border::after {
+        animation: journey 20s -10s infinite linear;
+      }
+
+      @keyframes journey {
+        to {
+          offset-distance: 100%;
+        }
+      }
     </style>
     <body xmlns="http://www.w3.org/1999/xhtml">
-      <div class="ball"></div>
+      <div class="ball">
+        <div class="fancy-border"></div>
+      </div>
     </body>
   </foreignObject>
 </svg>
