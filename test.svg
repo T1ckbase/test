@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <foreignObject xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <style>
+      @import url('https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css')
+    </style>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <div class="ball">
+        <button>Button</button>
+      </div>
+    </body>
+  </foreignObject>
+</svg>
