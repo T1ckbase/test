@@ -6,3 +6,4 @@ test
 
 <a href="/releases/latest/download/Cursor-Setup-0.44.11-x64.exe">d</a>
 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Wheatley.png/250px-Wheatley.png" alt="wheatley">
