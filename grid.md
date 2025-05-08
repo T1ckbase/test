@@ -46,6 +46,25 @@
   </tr>
 </table>
 
+<table id="toc">
+  <tr>
+    <td align="center">
+      <img src="/20x20.png" />
+      <img src="/20x20.png" />
+      <img src="/20x20.png" />
+      <img src="/20x20.png" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="/20x20.png" />
+      <img src="/20x20.png" />
+      <img src="/20x20.png" />
+      <img src="/20x20.png" />
+    </td>
+  </tr>
+</table>
+
 <h1 align="center" style="border-bottom: none;" >
    Hi
 </h1>
