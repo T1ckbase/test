@@ -1,4 +1,4 @@
-<table>
+<table id="toc">
   <tr>
     <td align="center" width="2px" height="2px">🐳</td>
     <td align="center"><img src="/20x20.png" width="10px" /></td>
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-<h1 align="center" style="border-bottom: none;" id="toc">
+<h1 align="center" style="border-bottom: none;" >
    Hi
 </h1>
 
