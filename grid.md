@@ -49,38 +49,38 @@
 <table id="toc">
   <tr>
     <td align="center">
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
-      <img src="/30x30.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
+      <img src="/36x36.png" />
     </td>
   </tr>
 </table>
