@@ -110,3 +110,5 @@
     <li><img src="/20x20.png" /></li>
   </ul>
 </div>
+
+<img src="/gray-button.svg" width="200px" height="200px" />
