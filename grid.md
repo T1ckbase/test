@@ -40,15 +40,19 @@
    Hi
 </h1>
 
-<div>
-  <img src="/20x20.png" />
-  <img src="/20x20.png" />
-  <img src="/20x20.png" />
-  <img src="/20x20.png" />
-  <img src="/20x20.png" />
-  <img src="/20x20.png" />
-  <img src="/20x20.png" />
-  <img src="/20x20.png" />
-  <img src="/20x20.png" />
-  <img src="/20x20.png" />
+<div id="toc">
+  <ul>
+    <li><img src="/20x20.png" /></li>
+    <li><img src="/20x20.png" /></li>
+    <li><img src="/20x20.png" /></li>
+    <li><img src="/20x20.png" /></li>
+    <li><img src="/20x20.png" /></li>
+  </ul>
+  <ul>
+    <li><img src="/20x20.png" /></li>
+    <li><img src="/20x20.png" /></li>
+    <li><img src="/20x20.png" /></li>
+    <li><img src="/20x20.png" /></li>
+    <li><img src="/20x20.png" /></li>
+  </ul>
 </div>
