@@ -25,7 +25,12 @@
     <td align="center">🐳</td>
     <td align="center">🐳</td>
     <td align="center">🐳</td>
-    <td align="center">🐳</td>
+    <td align="center">
+      <img src="/20x20.png" />
+      <img src="/20x20.png" />
+      <img src="/20x20.png" />
+      <img src="/20x20.png" />
+    </td>
   </tr>
     <tr>
     <td align="center">1</td>
