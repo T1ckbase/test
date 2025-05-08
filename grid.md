@@ -111,4 +111,4 @@
   </ul>
 </div>
 
-<img src="/gray-button.svg" width="200px" height="200px" />
+<img src="/1.svg" width="200px" height="200px" />
