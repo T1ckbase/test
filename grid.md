@@ -33,12 +33,10 @@
     <td align="center">3</td>
     <td align="center">4</td>
     <td align="center">
-      <li>
-        <img src="/20x20.png" />
-        <img src="/20x20.png" />
-        <img src="/20x20.png" />
-        <img src="/20x20.png" />
-      </li>
+      <img src="/20x20.png" />
+      <img src="/20x20.png" />
+      <img src="/20x20.png" />
+      <img src="/20x20.png" />
     </td>
   </tr>
 </table>
