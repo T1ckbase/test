@@ -49,38 +49,38 @@
 <table id="toc">
   <tr>
     <td align="center">
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
-      <img src="/32x32.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
+      <img src="/gray-button.png" />
     </td>
   </tr>
 </table>
