@@ -2,7 +2,7 @@
   <tr>
     <td align="center" width="2px" height="2px">🐳</td>
     <td align="center"><img src="/20x20.png" width="10px" /></td>
-    <td align="center">🐳</td>
+    <td align="center" style="padding: unset">🐳</td>
     <td align="center">🐳</td>
     <td align="center">🐳</td>
   </tr>
