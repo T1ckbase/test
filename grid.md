@@ -49,38 +49,38 @@
 <table id="toc">
   <tr>
     <td align="center">
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
-      <img src="/gray-button.png" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
     </td>
   </tr>
 </table>
