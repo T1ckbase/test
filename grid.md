@@ -32,7 +32,14 @@
     <td align="center">2</td>
     <td align="center">3</td>
     <td align="center">4</td>
-    <td align="center">5</td>
+    <td align="center">
+      <li>
+        <img src="/20x20.png" />
+        <img src="/20x20.png" />
+        <img src="/20x20.png" />
+        <img src="/20x20.png" />
+      </li>
+    </td>
   </tr>
 </table>
 
