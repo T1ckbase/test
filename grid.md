@@ -35,3 +35,6 @@
     <td align="center">🐳</td>
   </tr>
 </table>
+
+<img src="/20x20.png" />
+<img src="/20x20.png" />
