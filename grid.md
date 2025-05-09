@@ -78,8 +78,8 @@
       <img src="/gray-button.svg" />
       <img src="/gray-button.svg" />
       <img src="/gray-button.svg" />
-      <img src="/gray-button.svg" />
-      <img src="/gray-button.svg" />
+      <img src="/1.svg" />
+      <img src="/1.svg" />
       <img src="/gray-button.svg" />
     </td>
   </tr>
