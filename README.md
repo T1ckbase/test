@@ -10,38 +10,3 @@ test
 
 
 
-<table>
-  <tr>
-    <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Wheatley.png/250px-Wheatley.png" alt="wheatley">
-    </td>
-    <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Wheatley.png/250px-Wheatley.png" alt="wheatley">
-    </td>
-    <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Wheatley.png/250px-Wheatley.png" alt="wheatley">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Wheatley.png/250px-Wheatley.png" alt="wheatley">
-    </td>
-    <td align="center">
-        <img src="https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg">
-    </td>
-    <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Wheatley.png/250px-Wheatley.png" alt="wheatley">
-    </td>
-  </tr>
-    <tr>
-    <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Wheatley.png/250px-Wheatley.png" alt="wheatley">
-    </td>
-    <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Wheatley.png/250px-Wheatley.png" alt="wheatley">
-    </td>
-    <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Wheatley.png/250px-Wheatley.png" alt="wheatley">
-    </td>
-  </tr>
-</table>
