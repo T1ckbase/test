@@ -110,27 +110,7 @@
    Hi
 </h1>
 
-<div id="toc">
-  <ul>
-    <li>
-      <img src="/20x20.png" />
-      <img src="/20x20.png" />
-      <img src="/20x20.png" />
-      <img src="/20x20.png" />
-    </li>
-    <li><img src="/20x20.png" /></li>
-    <li><img src="/20x20.png" /></li>
-    <li><img src="/20x20.png" /></li>
-    <li><img src="/20x20.png" /></li>
-  </ul>
-  <ul>
-    <li><img src="/20x20.png" /></li>
-    <li><img src="/20x20.png" /></li>
-    <li><img src="/20x20.png" /></li>
-    <li><img src="/20x20.png" /></li>
-    <li><img src="/20x20.png" /></li>
-  </ul>
-</div>
+<img src="/blur-in.svg" />
 
 <img src="/1.svg" width="200px" height="200px" />
 
