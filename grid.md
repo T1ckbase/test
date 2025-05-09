@@ -113,6 +113,6 @@
 
 <img src="/1.svg" width="200px" height="200px" />
 
-<img src="https://t1ckbase-minesweeper.hf.space/game/status" width="48px" height="48px" />
+<img src="https://t1ckbase-minesweeper.hf.space/game/status?" width="48px" height="48px" />
 
 [test](https://t1ckbase-minesweeper.hf.space)
