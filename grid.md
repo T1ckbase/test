@@ -110,7 +110,7 @@
    Hi
 </h1>
 
-<img src="/blur-in.svg" />
+<img src="/blur-in.svg" width="300" height="307" />
 
 <img src="/1.svg" width="200px" height="200px" />
 
