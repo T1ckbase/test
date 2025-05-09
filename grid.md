@@ -84,6 +84,15 @@
     </td>
   </tr>
 </table>
+<table id="toc">
+  <tr>
+    <td align="center">
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+      <img src="/gray-button.svg" />
+    </td>
+  </tr>
+</table>
 
 <h1 align="center" style="border-bottom: none;" >
    Hi
