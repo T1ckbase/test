@@ -8,6 +8,8 @@ test
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}Github}$$
 
+<code style="color: gold">text</code>
+
 <!-- ![Random image](https://random-image-pepebigotes.vercel.app/api/random-image) -->
 
 
