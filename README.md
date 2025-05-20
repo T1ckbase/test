@@ -15,11 +15,44 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}Github
 <code style="color: gold">text</code>
 
 
-<img src="/resize.svg" />
+<!-- <img src="/resize.svg" /> -->
 
 ![CSS Chain Links](/CSS%20Chain%20Links.svg)
 
 <!-- ![Random image](https://random-image-pepebigotes.vercel.app/api/random-image) -->
 
+```mermaid
+flowchart TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+```
 
-
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
