@@ -116,4 +116,6 @@
 
 <img src="https://t1ckbase-minesweeper.hf.space/game/status" width="48px" height="48px" loading="lazy" />
 
+![](./horse.webp)
+
 [test](https://t1ckbase-minesweeper.hf.space)
