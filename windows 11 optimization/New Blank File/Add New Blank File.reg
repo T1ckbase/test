@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\blank_file]
+@="Blank File"
+
+[HKEY_CLASSES_ROOT\.blank_file]
+@="blank_file"
+
+[HKEY_CLASSES_ROOT\.blank_file\ShellNew]
+"NullFile"=""
+
+[HKEY_CLASSES_ROOT\.blank_file\ShellNew\Config]
+"NoExtension"=""

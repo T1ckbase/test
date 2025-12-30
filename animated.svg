@@ -1,0 +1,12 @@
+<svg viewBox="0 0 10 100" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg">
+  <animate
+    attributeName="viewBox"
+    dur="1.65s"
+    fill="freeze"
+    begin="0.1s;"
+    values="0 0 10 400; 0 0 10 450; 0 0 10 150; 0 0 10 20; 0 0 10 175" 
+    keytimes="0; 0.2; 0.4; 0.6; 0.8"
+    repeatCount="indefinite"
+    calcMode="discrete"
+  />
+</svg>
