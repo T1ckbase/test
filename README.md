@@ -1,6 +1,13 @@
 # test
 test
 
+<a href="https://www.npmjs.com/package/hono">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/npm/v/hono?style=flat-square&color=000000&labelColor=333333&logo=npm&logoColor=white">
+    <img src="https://img.shields.io/npm/v/hono?style=flat-square&color=white&labelColor=eeeeee&logo=npm&logoColor=red" alt="NPM Version">
+  </picture>
+</a>
+
 <samp>;jfdlkasadfs;jkladsfjkl;</samp>
 
 <a href="/#readme">Home</a>
