@@ -1,0 +1,201 @@
+<svg
+  width="100%"
+  height="100%"
+  viewBox="0 0 1024 1024"
+  xmlns="http://www.w3.org/2000/svg"
+  style="background: #000; isolation: isolate"
+>
+  <defs>
+    <filter id="micro-shredder-1" x="-50%" y="-50%" width="200%" height="200%">
+      <feTurbulence
+        type="fractalNoise"
+        baseFrequency="0.99"
+        numOctaves="10"
+        result="noise1"
+      />
+      <feColorMatrix
+        type="matrix"
+        values="
+        30 -30  30  0  5 
+       -30  30 -30  0  5 
+        30 -30  30  0  5 
+         0    0   0 50 -25"
+        result="color1"
+      />
+      <feDisplacementMap
+        in="SourceGraphic"
+        in2="color1"
+        scale="500"
+        xChannelSelector="R"
+        yChannelSelector="G"
+        result="displace1"
+      />
+      <feGaussianBlur in="displace1" stdDeviation="80" />
+    </filter>
+
+    <filter id="micro-shredder-2" x="-50%" y="-50%" width="200%" height="200%">
+      <feTurbulence
+        type="turbulence"
+        baseFrequency="0.15"
+        numOctaves="9"
+        result="noise2"
+      />
+      <feDisplacementMap
+        in="SourceGraphic"
+        in2="noise2"
+        scale="400"
+        xChannelSelector="B"
+        yChannelSelector="A"
+        result="displace2"
+      />
+      <feGaussianBlur in="displace2" stdDeviation="120" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="2" />
+      </feComponentTransfer>
+    </filter>
+
+    <radialGradient id="micro-grad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff0055" stop-opacity="0.3" />
+      <stop offset="20%" stop-color="#00ffcc" stop-opacity="0.3" />
+      <stop offset="40%" stop-color="#ffbb00" stop-opacity="0.3" />
+      <stop offset="60%" stop-color="#7700ff" stop-opacity="0.3" />
+      <stop offset="80%" stop-color="#ffffff" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.9" />
+    </radialGradient>
+
+    <mask id="m1">
+      <rect
+        width="1024"
+        height="1024"
+        fill="url(#micro-grad)"
+        filter="url(#micro-shredder-1)"
+        opacity="0.4"
+      />
+    </mask>
+    <mask id="m2">
+      <circle
+        cx="512"
+        cy="512"
+        r="450"
+        fill="#fff"
+        filter="url(#micro-shredder-2)"
+        opacity="0.5"
+      />
+    </mask>
+    <mask id="m3">
+      <g filter="url(#micro-shredder-1)" opacity="0.6">
+        <path
+          d="M0,0 L1024,1024 M1024,0 L0,1024"
+          stroke="#fff"
+          stroke-width="300"
+        />
+      </g>
+    </mask>
+    <mask id="m4">
+      <rect
+        width="1024"
+        height="1024"
+        fill="url(#micro-grad)"
+        mask="url(#m2)"
+      />
+    </mask>
+  </defs>
+
+  <g filter="url(#micro-shredder-2)" style="mix-blend-mode: exclusion">
+    <rect
+      width="1024"
+      height="1024"
+      fill="url(#micro-grad)"
+      filter="url(#micro-shredder-1)"
+      style="mix-blend-mode: difference"
+    />
+
+    <g mask="url(#m1)" style="mix-blend-mode: difference">
+      <circle
+        cx="512"
+        cy="512"
+        r="500"
+        fill="url(#micro-grad)"
+        filter="url(#micro-shredder-2)"
+      >
+        <animate
+          attributeName="r"
+          values="200;600;200"
+          dur="20s"
+          repeatCount="indefinite"
+        />
+      </circle>
+    </g>
+
+    <g
+      mask="url(#m2)"
+      filter="url(#micro-shredder-1)"
+      style="mix-blend-mode: exclusion"
+    >
+      <rect width="1024" height="1024" fill="url(#micro-grad)" opacity="0.7" />
+      <path
+        d="M0,512 Q256,0 512,512 T1024,512"
+        fill="none"
+        stroke="url(#micro-grad)"
+        stroke-width="400"
+      >
+        <animate
+          attributeName="d"
+          values="
+          M0,512 Q256,0 512,512 T1024,512;
+          M0,512 Q256,1024 512,512 T1024,512;
+          M0,512 Q256,0 512,512 T1024,512"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </path>
+    </g>
+
+    <g mask="url(#m4)" style="mix-blend-mode: overlay">
+      <circle
+        cx="512"
+        cy="512"
+        r="400"
+        fill="#00ffff"
+        filter="url(#micro-shredder-2)"
+        opacity="0.5"
+      >
+        <animate
+          attributeName="cx"
+          values="300;724;300"
+          dur="15s"
+          repeatCount="indefinite"
+        />
+      </circle>
+    </g>
+
+    <g
+      mask="url(#m3)"
+      filter="url(#micro-shredder-1)"
+      style="mix-blend-mode: color-burn"
+    >
+      <rect width="1024" height="1024" fill="url(#micro-grad)" />
+      <polygon points="512,100 900,800 100,800" fill="url(#micro-grad)">
+        <animate
+          attributeName="points"
+          values="
+          512,100 900,800 100,800;
+          512,924 900,200 100,200;
+          512,100 900,800 100,800"
+          dur="25s"
+          repeatCount="indefinite"
+        />
+      </polygon>
+    </g>
+
+    <rect
+      width="1024"
+      height="1024"
+      fill="url(#micro-grad)"
+      mask="url(#m1)"
+      filter="url(#micro-shredder-2)"
+      style="mix-blend-mode: color-dodge"
+      opacity="0.6"
+    />
+  </g>
+</svg>
